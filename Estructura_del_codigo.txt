@@ -1,0 +1,19 @@
+#(10)
+# --- 2. Carga de Datos ---
+# Cargamos el dataset (debe estar en el mismo directorio o ruta correcta)
+# delimiter=';' porque los campos están separados por punto y coma
+#(13-31)
+# --- 3. Análisis Exploratorio (EDA) ---
+# Primer vistazo a los datos
+#(34-51)
+# --- 4. Preprocesamiento ---
+# Separación en características (X) y target (y)
+#(52-79)
+# --- 5. Modelo de Árbol de Decisión ---
+# Inicialización del modelo
+#(80-113)
+# --- 6. Modelo Random Forest ---
+# Inicialización con hiperparámetros base
+#(114...)
+# --- 7. Importancia de Características ---
+# Obtener importancia de características
