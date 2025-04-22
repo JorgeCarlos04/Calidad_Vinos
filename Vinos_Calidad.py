@@ -1,4 +1,4 @@
-
+#1-Importacion de la bibliotecas
 import pandas as pd  # Manipulación y análisis de datos
 import seaborn as sns  # Visualización de datos
 import matplotlib.pyplot as plt  # Gráficos básicos
