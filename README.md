@@ -1,1 +1,1 @@
-Codigo estructurado con la utilizacion de  modelos Machine Learning (Arboles de Desicion) para realzar la mejor calidad de vino con la utilizacion base de 11 componenetes quimicos a tener en cuenta para dar el resuktdo mas fiel posible
+Codigo estructurado con la utilizacion de  modelos Machine Learning (Arboles de Desicion) para realzar la mejor calidad de vino con la utilizacion base de 11 componenetes quimicos a tener en cuenta para dar el resultado mas fiel posible
